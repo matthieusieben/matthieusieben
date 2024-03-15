@@ -3,3 +3,5 @@
 - 🌱  I’m contstanly looking to improve my (web) development skills
 - 🦋  I’m currently working building the future of social media @[Bluesky](https://github.com/bluesky-social)
 - 📫  Reach out to me on [Linkedin](https://www.linkedin.com/in/matthieusieben/)
+
+[![Matthieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthieusieben)](https://github.com/anuraghazra/github-readme-stats)
